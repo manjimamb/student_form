@@ -2,7 +2,7 @@
 
 ## Start the project
 
-Open the `index.html` file in your browser.
+Open the `sa.html` file in your browser.
 
 The project contains a simple student registration form with:
 
