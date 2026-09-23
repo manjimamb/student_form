@@ -4,7 +4,7 @@
 
 Open the `sa.html` file in your browser.
 
-The project contains a simple student registration form with:
+The project contains a  student registration form with:
 
 - Name
 - Email
